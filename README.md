@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly programming: accessing memory beyond the allocated bounds of an array.  The `bug.asm` file contains code that attempts to access memory outside the array, which can lead to unpredictable results such as program crashes or data corruption.  The `bugSolution.asm` provides a corrected version with proper bounds checking.
